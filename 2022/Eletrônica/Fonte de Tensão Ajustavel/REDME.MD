@@ -7,7 +7,7 @@ bla bla bla
 
 1. Retificador Ponte (KBPC307) ou algo parecido
 2. Capacitor 470? uF 25V
-3. Zener 13V 1n4004 ou 1N4743
+3. Zener 13V 1n4004 ou 1N4743 ou 1N5350B
 4. Led
     - Mostrar que ta ligado
     - monstrar tensão??
