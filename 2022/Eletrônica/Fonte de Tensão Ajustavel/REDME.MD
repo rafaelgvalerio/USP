@@ -18,5 +18,6 @@ bla bla bla
     - 1x 120 Ω
 6. Potenciometro Linear (10kΩ resolve acho)
 7. Transisor NPN 200mA (2n3904) (bc368)
+8. Fusivel ver mA
 
 
