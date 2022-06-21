@@ -21,3 +21,10 @@ bla bla bla
 8. Fusivel ver mA
 
 
+| Quantidade        | Componente           | Valor  |
+| ------------- |:-------------:            | -----:|
+| a     | a           | $1 |
+| b    |b                  |   $2 |
+| c| c                  |    $3 |
+
+
