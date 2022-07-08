@@ -1,28 +1,71 @@
+# Fonte de Tensão Ajustável
 
-# Fonte de tensão 
+## Instruções
 
-bla bla bla
+Construir uma fonte de tensão ajustável entre 3V e 12V com capacidade de 100mA e que funcione a partir de uma tomada de 127V de corrnte alternada.
 
-# Componentes
+## Objetivo
 
-1. Retificador Ponte (KBPC307) ou algo parecido
-2. Capacitor 600? uF 25V
-3. Zener 13V 1n4004 ou 1N4743 ou 1N5350B
-4. 2x Led (cores diferentes)
-5. Resistores
-    - 1x 3k9 Ω ou 2k (depende do potenciometro)
-    - 2x 1k Ω (LED - 1/4 W)
-    - 1x 1k Ω (LED - 1/2 W)
-6. Potenciometro Linear (10k ou 5k)
-7. Transisor NPN 200mA (2n3904) (bc368)
-8. Fusivel ver 1mA ou 500uA
+O objetivo desse projeto é a ratificação do conhecimento passado durante o 1° semestre por meio de sua aplicação para a criação de um circuito que atenda as especificações estabelecidas. Assim, os estudos por trás dos componentes e de suas funções nos auxiliaram a alcançar o que foi pedido.
 
+## Cálculos
 
+---> inserir imagens com os cálculos
 
-| Quantidade        | Componente           | Valor  |
-| :-------------: |:-------------:            | :-----:|
-| 2x             | a           | $1              |
-| b         |b                  |   $2            |
-| c         | c                  |    $3              |
+## Componentes
 
+| Quantidade |         Componente          |    Valor    |
+| :--------- |:--------------------------: | ----------: |
+| 1x         | Potenciômetro               | R$7.00      |
+| 1x         | Capacitor Elco 105°C        | R$5.78      |
+| 1x         | Diodo Zener 13V %W          | R$2.79      |
+| 4x         | Diodo retificador 1N4007    | R$0.20 cada |
+| 1x         | LED 5mm VM difuso           | R$0.50      |
+| 1x         | Diodo Zener 13V 1W          | R$0.48      |
+| 1x         | Transistor 60V 0.2A 0.625W  | R$0.40      |
+| 1x         | Resistor CR25 1K carvão LGE | R$0.07 cada |
 
+## Descrição dos compenentes
+
+Potenciômetro - Com um botão giratório e seu resistor variável auxilia na hora de controlar a tensão dentro dos valores desejados (3 a 12 Volts)
+
+Capacitor - Ele guarda parte da carga para soltar quando a tensão interna é maior que a tensão vinda da fonte. O capacitor escolhido foi xxxxxxxxxxx (aguentava até 25, Rafa explica mais se der
+
+LED - Usada somente para informar a passagem de corrente.
+
+Ponte de Diodo - Feito com 4 diodos, tem a missão de abastecer o circuito com a corrente em ambos ciclos, fazendo a corrente correr em apenas um sentido.
+
+Diodo Zener - O Zener tem a função de "travar" o valor de tensão em 12V para manter a corrente contínua. O zener só conduz eletricidade quando chegar em 12W, antes disso o Diodo não conduz eletricidade, consequentemente não interfere no circuito
+
+Transistor - Serve para permitir a passagem de corrente de forma ajustável
+
+Resistor - Tem a função de limitar a corrente do circuito para que não ultrapasse os valores que os componentes suportam.
+
+## Imagens da fonte montada
+
+![alt text][foto1]
+![alt text][foto2]
+
+[foto1]: https://i.imgur.com/fknIOfn.jpeg
+[foto2]: https://i.imgur.com/iAvvsa3.jpeg
+
+## Circuito no Falstad
+
+---> inserir imagem
+link:
+
+## Imagem do projeto esquemático e do PCB no Eagle
+
+---> inserir imagens
+
+## Vídeo explicando o circuito
+
+link: 
+
+## Alunos
+
+|         Alunos          |   NUSP    |
+| :---------------------- | :-------: |
+| Gabriel da Costa Merlin |  12544420 |
+| Mateus Bernal Leffeck   |  13673318 |
+| Rafael Valério          |           |
