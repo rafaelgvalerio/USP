@@ -68,4 +68,4 @@ link:
 | :---------------------- | :-------: |
 | Gabriel da Costa Merlin |  12544420 |
 | Mateus Bernal Leffeck   |  13673318 |
-| Rafael Valério          |           |
+| Rafael Valério          |  13672895 |
