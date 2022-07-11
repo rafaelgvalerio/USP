@@ -2,7 +2,7 @@
 
 ## Instruções
 
-Construir uma fonte de tensão ajustável entre 3V e 12V com capacidade de 100mA e que funcione a partir de uma tomada de 127V de corrnte alternada.
+Construir uma fonte de tensão ajustável entre 3V e 12V DC com capacidade de 100mA e que funcione a partir de uma tomada de 127V AC.
 
 ## Objetivo
 
