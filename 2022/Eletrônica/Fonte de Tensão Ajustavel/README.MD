@@ -29,19 +29,19 @@ O objetivo desse projeto é a ratificação do conhecimento passado durante o 1�
 
 ## Descrição dos componentes
 
-Potenciômetro: É um componente com resistência ajustável. Usamos ele para controlr a tensão de saída (3 a 12 Volts).
+* **Potenciômetro**: É um componente com resistência ajustável. Usamos ele para controlr a tensão de saída (3 a 12 Volts).
 
-Capacitor:  Ele armazena parte da carga para soltar quando a tensão interna é maior que a tensão vinda da fonte. O capacitor escolhido foi 680uF 25V;
+* **Capacitor**:  Ele armazena parte da carga para soltar quando a tensão interna é maior que a tensão vinda da fonte. O capacitor escolhido foi 680uF 25V;
 
-LED: Usada somente para informar a passagem de corrente. Quanto mais brilhoso, maior a tensão que está passando por ele.
+* **LED**: Usada somente para informar a passagem de corrente. Quanto mais brilhoso, maior a tensão que está passando por ele.
 
-Ponte de Diodo: Feito com 4 diodos, tem a missão de retificar a tensão vinda do transformador.
+* **Ponte de Diodo**: Feito com 4 diodos, tem a missão de retificar a tensão vinda do transformador.
 
-Diodo Zener: O zener tem a função de "travar" o valor de tensão em 13V para manter a corrente contínua.
+* **Diodo Zener**: O zener tem a função de "travar" o valor de tensão em 13V para manter a corrente contínua.
 
-Transistor: Serve para permitir a passagem de corrente de forma ajustável;
+* **Transistor**: Serve para permitir a passagem de corrente de forma ajustável;
 
-Resistor: Tem a função de limitar a corrente do circuito para que não ultrapasse os valores que os componentes suportam.
+* **Resistor**: Tem a função de limitar a corrente do circuito para que não ultrapasse os valores que os componentes suportam.
 
 ## Imagens da fonte montada
 
