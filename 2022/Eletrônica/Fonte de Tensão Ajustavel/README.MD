@@ -54,7 +54,7 @@ Resistor - Tem a função de limitar a corrente do circuito para que não ultrap
 
 ![alt text][foto3]
 
-[foto3]: https://imgur.com/a/TeBvsxO
+[foto3]: https://i.imgur.com/Js8pvWE.png
 
 link: https://tinyurl.com/27m4wobq
 
