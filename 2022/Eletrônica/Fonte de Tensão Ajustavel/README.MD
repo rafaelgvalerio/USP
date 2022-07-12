@@ -23,7 +23,7 @@ O objetivo desse projeto é a ratificação do conhecimento passado durante o 1�
 | 1x         | Diodo Zener 13V 1N4743      | R$2.79      |
 | 4x         | Diodo retificador 1N4007    | R$0.20 cada |
 | 1x         | LED                         | R$0.50      |
-| 1x         | Transistor 2N3904$0.40      | R$0.40      |
+| 1x         | Transistor 2N3904           | R$0.40      |
 | 1x         | Resistor CR25 1K carvão LGE | R$0.07 cada |
 |            |         TOTAL               | R$16,74     |
 
