@@ -16,6 +16,7 @@ O objetivo desse projeto é a ratificação do conhecimento passado durante o 1�
 
 | Quantidade |         Componente          |    Valor    |
 | :--------- |:--------------------------: | ----------: |
+| 1x         | Protoboard                  | emprestado  |
 | 1x         |     Transformador           | emprestado  |
 | 1x         | Potenciômetro 10Ω           | R$7.00      |
 | 1x         | Capacitor 680uF 25V         | R$5.78      |
@@ -28,19 +29,19 @@ O objetivo desse projeto é a ratificação do conhecimento passado durante o 1�
 
 ## Descrição dos componentes
 
-Potenciômetro: é um componente com resistência ajustável. Usamos ele para controlr a tensão de saída (3 a 12 Volts).
+Potenciômetro: É um componente com resistência ajustável. Usamos ele para controlr a tensão de saída (3 a 12 Volts).
 
-Capacitor:  ele guarda parte da carga para soltar quando a tensão interna é maior que a tensão vinda da fonte. O capacitor escolhido foi xxxxxxxxxxx (aguentava até 25, Rafa explica mais se der
+Capacitor:  Ele armazena parte da carga para soltar quando a tensão interna é maior que a tensão vinda da fonte. O capacitor escolhido foi 680uF 25V;
 
-LED: usada somente para informar a passagem de corrente.
+LED: Usada somente para informar a passagem de corrente. Quanto mais brilhoso, maior a tensão que está passando por ele.
 
-Ponte de Diodo: feito com 4 diodos, tem a missão de abastecer o circuito com a corrente em ambos ciclos, fazendo a corrente correr em apenas um sentido.
+Ponte de Diodo: Feito com 4 diodos, tem a missão de retificar a tensão vinda do transformador.
 
-Diodo Zener: o zener tem a função de "travar" o valor de tensão em 12V para manter a corrente contínua. O zener só conduz eletricidade quando chegar em 12W, antes disso o Diodo não conduz eletricidade, consequentemente não interfere no circuito
+Diodo Zener: O zener tem a função de "travar" o valor de tensão em 13V para manter a corrente contínua.
 
-Transistor: serve para permitir a passagem de corrente de forma ajustável
+Transistor: Serve para permitir a passagem de corrente de forma ajustável;
 
-Resistor: tem a função de limitar a corrente do circuito para que não ultrapasse os valores que os componentes suportam.
+Resistor: Tem a função de limitar a corrente do circuito para que não ultrapasse os valores que os componentes suportam.
 
 ## Imagens da fonte montada
 
