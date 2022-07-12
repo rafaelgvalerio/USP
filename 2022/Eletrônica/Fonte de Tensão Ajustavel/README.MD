@@ -16,14 +16,15 @@ O objetivo desse projeto é a ratificação do conhecimento passado durante o 1�
 
 | Quantidade |         Componente          |    Valor    |
 | :--------- |:--------------------------: | ----------: |
-| 1x         | Potenciômetro               | R$7.00      |
-| 1x         | Capacitor Elco 105°C        | R$5.78      |
-| 1x         | Diodo Zener 13V %W          | R$2.79      |
+| 1x         |     Transformador           | emprestado  |
+| 1x         | Potenciômetro 10Ω           | R$7.00      |
+| 1x         | Capacitor 680uF 25V         | R$5.78      |
+| 1x         | Diodo Zener 13V 1N4743      | R$2.79      |
 | 4x         | Diodo retificador 1N4007    | R$0.20 cada |
-| 1x         | LED 5mm VM difuso           | R$0.50      |
-| 1x         | Diodo Zener 13V 1W          | R$0.48      |
-| 1x         | Transistor 60V 0.2A 0.625W  | R$0.40      |
+| 1x         | LED                         | R$0.50      |
+| 1x         | Transistor 2N3904$0.40      | R$0.40      |
 | 1x         | Resistor CR25 1K carvão LGE | R$0.07 cada |
+|            |         TOTAL               | R$16,74     |
 
 ## Descrição dos compenentes
 
@@ -47,12 +48,14 @@ Resistor - Tem a função de limitar a corrente do circuito para que não ultrap
 ![alt text][foto2]
 
 [foto1]: https://i.imgur.com/fknIOfn.jpeg
+
+
 [foto2]: https://i.imgur.com/iAvvsa3.jpeg
 
 ## Circuito no Falstad
 
 ---> inserir imagem
-link:
+link: https://tinyurl.com/27m4wobq
 
 ## Imagem do projeto esquemático e do PCB no Eagle
 
@@ -68,4 +71,4 @@ link:
 | :---------------------- | :-------: |
 | Gabriel da Costa Merlin |  12544420 |
 | Mateus Bernal Leffeck   |  13673318 |
-| Rafael Valério          |  13672895 |
+| Rafael Galbiati Valéri  |  13672895 |
