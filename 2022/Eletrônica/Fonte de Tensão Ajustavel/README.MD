@@ -48,13 +48,14 @@ Resistor - Tem a função de limitar a corrente do circuito para que não ultrap
 ![alt text][foto2]
 
 [foto1]: https://i.imgur.com/fknIOfn.jpeg
-
-
 [foto2]: https://i.imgur.com/iAvvsa3.jpeg
 
 ## Circuito no Falstad
 
----> inserir imagem
+![alt text][foto3]
+
+[foto3]: 
+
 link: https://tinyurl.com/27m4wobq
 
 ## Imagem do projeto esquemático e do PCB no Eagle
