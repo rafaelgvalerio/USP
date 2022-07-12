@@ -28,19 +28,19 @@ O objetivo desse projeto é a ratificação do conhecimento passado durante o 1�
 
 ## Descrição dos componentes
 
-Potenciômetro - É um componente com resistência ajustável. Usamos ele para controlr a tensão de saída (3 a 12 Volts).
+Potenciômetro: é um componente com resistência ajustável. Usamos ele para controlr a tensão de saída (3 a 12 Volts).
 
-Capacitor - Ele guarda parte da carga para soltar quando a tensão interna é maior que a tensão vinda da fonte. O capacitor escolhido foi xxxxxxxxxxx (aguentava até 25, Rafa explica mais se der
+Capacitor:  ele guarda parte da carga para soltar quando a tensão interna é maior que a tensão vinda da fonte. O capacitor escolhido foi xxxxxxxxxxx (aguentava até 25, Rafa explica mais se der
 
-LED - Usada somente para informar a passagem de corrente.
+LED: usada somente para informar a passagem de corrente.
 
-Ponte de Diodo - Feito com 4 diodos, tem a missão de abastecer o circuito com a corrente em ambos ciclos, fazendo a corrente correr em apenas um sentido.
+Ponte de Diodo: feito com 4 diodos, tem a missão de abastecer o circuito com a corrente em ambos ciclos, fazendo a corrente correr em apenas um sentido.
 
-Diodo Zener - O Zener tem a função de "travar" o valor de tensão em 12V para manter a corrente contínua. O zener só conduz eletricidade quando chegar em 12W, antes disso o Diodo não conduz eletricidade, consequentemente não interfere no circuito
+Diodo Zener: o zener tem a função de "travar" o valor de tensão em 12V para manter a corrente contínua. O zener só conduz eletricidade quando chegar em 12W, antes disso o Diodo não conduz eletricidade, consequentemente não interfere no circuito
 
-Transistor - Serve para permitir a passagem de corrente de forma ajustável
+Transistor: serve para permitir a passagem de corrente de forma ajustável
 
-Resistor - Tem a função de limitar a corrente do circuito para que não ultrapasse os valores que os componentes suportam.
+Resistor: tem a função de limitar a corrente do circuito para que não ultrapasse os valores que os componentes suportam.
 
 ## Imagens da fonte montada
 
