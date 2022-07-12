@@ -28,7 +28,7 @@ O objetivo desse projeto é a ratificação do conhecimento passado durante o 1�
 
 ## Descrição dos componentes
 
-Potenciômetro - Com um botão giratório e seu resistor variável auxilia na hora de controlar a tensão dentro dos valores desejados (3 a 12 Volts)
+Potenciômetro - É um componente com resistência ajustável. Usamos ele para controlr a tensão de saída (3 a 12 Volts).
 
 Capacitor - Ele guarda parte da carga para soltar quando a tensão interna é maior que a tensão vinda da fonte. O capacitor escolhido foi xxxxxxxxxxx (aguentava até 25, Rafa explica mais se der
 
