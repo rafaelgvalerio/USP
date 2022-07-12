@@ -26,7 +26,7 @@ O objetivo desse projeto é a ratificação do conhecimento passado durante o 1�
 | 1x         | Resistor CR25 1K carvão LGE | R$0.07 cada |
 |            |         TOTAL               | R$16,74     |
 
-## Descrição dos compenentes
+## Descrição dos componentes
 
 Potenciômetro - Com um botão giratório e seu resistor variável auxilia na hora de controlar a tensão dentro dos valores desejados (3 a 12 Volts)
 
