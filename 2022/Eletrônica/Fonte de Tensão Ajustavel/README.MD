@@ -61,7 +61,11 @@ link: https://tinyurl.com/27m4wobq
 
 ## Imagem do projeto esquemático e do PCB no Eagle
 
----> inserir imagens
+![altt text][foto4]
+![alt text][foto5]
+
+[foto4]: https://i.imgur.com/AwHHvlB.png
+[foto5]: https://i.imgur.com/Xo6GL79.png
 
 ## Vídeo explicando o circuito
 
