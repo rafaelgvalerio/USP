@@ -77,4 +77,4 @@ link:
 | :---------------------- | :-------: |
 | Gabriel da Costa Merlin |  12544420 |
 | Mateus Bernal Leffeck   |  13673318 |
-| Rafael Galbiati Valéri  |  13672895 |
+| Rafael Galbiati Valério |  13672895 |
