@@ -61,7 +61,7 @@ O objetivo desse projeto é a ratificação do conhecimento passado durante o 1�
 
 [foto4]: https://i.imgur.com/Js8pvWE.png
 
-link: https://tinyurl.com/27m4wobq
+link: [Circuito](https://tinyurl.com/2bhms637)
 
 ## Imagem do projeto esquemático e do PCB no Eagle
 
