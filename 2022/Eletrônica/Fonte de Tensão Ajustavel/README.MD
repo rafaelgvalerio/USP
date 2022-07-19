@@ -31,7 +31,7 @@ O objetivo desse projeto é a ratificação do conhecimento passado durante o 1�
 
 ## Descrição dos componentes
 
-* **Transformador**: Basicamente aumenta ou dimunui a tensão de acordo com a quantidade de espiras de cada lado do transformador. Ex: Um transformador 10/1 pode diminuir a tensão em 10 vezes ou aumentar tensão em 10 vezesl, dependendo de como for conectado.
+* **Transformador**: Basicamente aumenta ou dimunui a tensão de acordo com a quantidade de espiras de cada lado do transformador. Ex: Um transformador 10/1 pode diminuir a tensão em 10 vezes ou aumentar tensão em 10 vezes, dependendo de como for conectado.
 
 * **Potenciômetro**: É um componente com resistência ajustável. Usamos ele para controlr a tensão de saída (3 a 12 Volts).
 
