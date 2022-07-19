@@ -73,7 +73,7 @@ Link: [Circuito](https://tinyurl.com/2bhms637)
 
 ## Vídeo explicando o circuito
 
-link: 
+Link: 
 
 ## Alunos
 
