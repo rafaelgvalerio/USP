@@ -10,7 +10,9 @@ O objetivo desse projeto é a ratificação do conhecimento passado durante o 1�
 
 ## Cálculos
 
-![alt text][https://i.imgur.com/PvzGco1.png]
+![alt text][foto1]
+
+[foto1]: https://i.imgur.com/PvzGco1.png
 
 ## Componentes
 
@@ -45,27 +47,27 @@ O objetivo desse projeto é a ratificação do conhecimento passado durante o 1�
 
 ## Imagens da fonte montada
 
-![alt text][foto1]
 ![alt text][foto2]
+![alt text][foto3]
 
-[foto1]: https://i.imgur.com/fknIOfn.jpeg
-[foto2]: https://i.imgur.com/iAvvsa3.jpeg
+[foto2]: https://i.imgur.com/fknIOfn.jpeg
+[foto3]: https://i.imgur.com/iAvvsa3.jpeg
 
 ## Circuito no Falstad
 
-![alt text][foto3]
+![alt text][foto4]
 
-[foto3]: https://i.imgur.com/Js8pvWE.png
+[foto4]: https://i.imgur.com/Js8pvWE.png
 
 link: https://tinyurl.com/27m4wobq
 
 ## Imagem do projeto esquemático e do PCB no Eagle
 
-![altt text][foto4]
-![alt text][foto5]
+![altt text][foto5]
+![alt text][foto6]
 
-[foto4]: https://i.imgur.com/AwHHvlB.png
-[foto5]: https://i.imgur.com/Xo6GL79.png
+[foto5]: https://i.imgur.com/AwHHvlB.png
+[foto6]: https://i.imgur.com/Xo6GL79.png
 
 ## Vídeo explicando o circuito
 
