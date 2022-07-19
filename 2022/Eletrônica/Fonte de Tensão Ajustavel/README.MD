@@ -10,7 +10,7 @@ O objetivo desse projeto é a ratificação do conhecimento passado durante o 1�
 
 ## Cálculos
 
----> inserir imagens com os cálculos
+![alt text][https://i.imgur.com/PvzGco1.png]
 
 ## Componentes
 
