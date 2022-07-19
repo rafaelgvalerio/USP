@@ -31,6 +31,8 @@ O objetivo desse projeto é a ratificação do conhecimento passado durante o 1�
 
 ## Descrição dos componentes
 
+* **Transformador**: 
+
 * **Potenciômetro**: É um componente com resistência ajustável. Usamos ele para controlr a tensão de saída (3 a 12 Volts).
 
 * **Capacitor**:  Ele armazena parte da carga para soltar quando a tensão interna é maior que a tensão vinda da fonte. O capacitor escolhido foi 680uF 25V;
