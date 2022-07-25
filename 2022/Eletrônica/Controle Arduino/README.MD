@@ -4,6 +4,8 @@
 
 [foto1]: 
 
+## Explicação do Projeto
+
 ## Componentes Utilizados
 
 ## Diagrama com as conexões
