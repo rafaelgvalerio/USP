@@ -12,6 +12,8 @@
 | :--------- |:--------------------------: | ----------: |
 | 1x         | Protoboard                  | emprestado  |
 | 1x         | Arduino UNO                 | emprestado  |
+| 8x         | Push buttons                | R$0,70 cada |
+| 8x         | Resistor CR25 1K carvão LGE | R$0.07 cada |
 |            |         TOTAL               |             |
 
 ## Diagrama com as conexões
