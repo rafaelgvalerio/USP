@@ -20,6 +20,8 @@
 
 [foto2]: https://i.imgur.com/wLgtLHg.png
 
+OBS: 
+
 ## Vídeo mostrando e explicando o funcionamento do controle
 
 Link:
