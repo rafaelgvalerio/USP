@@ -12,7 +12,7 @@
 
 ![alt text][foto2]
 
-[foto2]: 
+[foto2]: https://i.imgur.com/wLgtLHg.png
 
 ## Vídeo mostrando e explicando o funcionamento do controle
 
