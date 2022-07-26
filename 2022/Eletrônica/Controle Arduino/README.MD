@@ -12,10 +12,13 @@
 | :--------- |:--------------------------: | ----------: |
 | 1x         | Protoboard                  | emprestado  |
 | 1x         | Arduino UNO                 | emprestado  |
-| 8x         | Jumper wires                | emprestado  |
-| 8x         | Push buttons                | R$0,70 cada |
+| 24x        | Jumper wire                 | emprestado  |
+| 8x         | Push button                 | R$0,70 cada |
 | 8x         | Resistor CR25 1K carvão LGE | R$0.07 cada |
+| 8x         | Banana                      | R$0.80 cada |
 |            |         TOTAL               |             |
+
+* OBS: Utilizamos push buttons para testar o funcionamento do circuito, mas eles não aparecem no projeto final, já que o objetivo é criar um dispositivo para controlado por bananas.
 
 ## Diagrama com as conexões
 
@@ -23,7 +26,7 @@
 
 [foto2]: https://i.imgur.com/wLgtLHg.png
 
-OBS: 
+* OBS: Optamos por deixar o Tinkercad com os push buttons, porque nele não há bananas.
 
 ## Vídeo mostrando e explicando o funcionamento do controle
 
