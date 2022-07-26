@@ -12,6 +12,7 @@
 | :--------- |:--------------------------: | ----------: |
 | 1x         | Protoboard                  | emprestado  |
 | 1x         | Arduino UNO                 | emprestado  |
+| 8x         | Jumper wires                | emprestado  |
 | 8x         | Push buttons                | R$0,70 cada |
 | 8x         | Resistor CR25 1K carvão LGE | R$0.07 cada |
 |            |         TOTAL               |             |
@@ -27,3 +28,11 @@ OBS:
 ## Vídeo mostrando e explicando o funcionamento do controle
 
 Link:
+
+## Alunos
+
+|         Alunos          |   NUSP    |
+| :---------------------- | :-------: |
+| Gabriel da Costa Merlin |  12544420 |
+| Mateus Bernal Leffeck   |  13673318 |
+| Rafael Galbiati Valério |  13672895 |
