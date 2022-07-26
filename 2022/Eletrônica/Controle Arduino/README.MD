@@ -8,6 +8,12 @@
 
 ## Componentes Utilizados
 
+| Quantidade |         Componente          |    Valor    |
+| :--------- |:--------------------------: | ----------: |
+| 1x         | Protoboard                  | emprestado  |
+| 1x         | Arduino UNO                 | emprestado  |
+|            |         TOTAL               |             |
+
 ## Diagrama com as conexões
 
 ![alt text][foto2]
