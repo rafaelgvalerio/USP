@@ -6,7 +6,9 @@ O projeto consiste na criação de um controle feito com bananas. Nós o usaremo
 
 ## Explicação do Projeto
 
+O funcionamento do controle é bem simples. No estado inicial, o Arduino manda 5V para Protoboard e os recebe de volta, no entanto, quando encostamos em alguma banana, acabamos por "roubar" parte dessa tensão e isso é sentido pelo Arduino, que manda um sinal para o computador em forma de uma string. Essa string é lida por um programa feito em Java, que está rodando em segundo plano no computador, e é transformada em um comando de teclado. Desse modo, conseguimos mandar inputs de teclado para o computador usando apenas bananas.
 
+* OBS: Foi necessário o uso do programa em Java, porque o Arduino UNO não possui a capacidade de mandar inputs de teclado, diferentemente do Arduino Leonardo. Ou seja, caso tivéssemos conseguido um Arduino Leonardo, o script em Java seria desnecessário.
 
 ## Componentes Utilizados
 
