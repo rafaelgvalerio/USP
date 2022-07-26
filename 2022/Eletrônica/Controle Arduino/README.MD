@@ -2,7 +2,7 @@
 
 ## Instruções
 
-O projeto consiste na criação de um controle feito com bananas.
+O projeto consiste na criação de um controle feito com bananas. Nós o usaremos para jogar games, mas ele pode ser facilmente adaptado para qualquer outro objeto/atividade, como, por exemplo, para um piano.
 
 ## Explicação do Projeto
 
@@ -20,7 +20,7 @@ O projeto consiste na criação de um controle feito com bananas.
 | 8x         | Banana                      | R$0.80 cada |
 |            |         TOTAL               |             |
 
-* OBS: Utilizamos push buttons para testar o funcionamento do circuito, mas eles não aparecem no projeto final, já que o objetivo é criar um dispositivo para controlado por bananas.
+* OBS: Utilizamos push buttons para testar o funcionamento do circuito, mas eles não aparecem no projeto final, já que o objetivo é criar um dispositivo controlado por bananas.
 
 ## Diagrama com as conexões
 
