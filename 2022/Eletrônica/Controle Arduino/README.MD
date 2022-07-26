@@ -1,10 +1,12 @@
 # Controle de Bananas - Arduino
 
-![alt text][foto1]
+## Instruções
 
-[foto1]: 
+O projeto consiste na criação de um controle feito com bananas.
 
 ## Explicação do Projeto
+
+
 
 ## Componentes Utilizados
 
@@ -27,6 +29,12 @@
 [foto2]: https://i.imgur.com/wLgtLHg.png
 
 * OBS: Optamos por deixar o Tinkercad com os push buttons, porque nele não há bananas.
+
+## Imagem do controle montado
+
+![alt text][foto1]
+
+[foto1]: 
 
 ## Vídeo mostrando e explicando o funcionamento do controle
 
