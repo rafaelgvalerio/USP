@@ -24,9 +24,9 @@ void draw(){
 
 void serialEvent(Serial MyPort)throws Exception {
   KeyString = MyPort.readStringUntil('\n');
-  KeyString = KeyString.substring(0, KeyString.indexOf(':'));//The string is split. the whole string leaving the colon is taken
-  System.out.println(KeyString);//prints the serial string for debugging purpose
-  Robot Arduino = new Robot();//Constructor of robot class
+  KeyString = KeyString.substring(0, KeyString.indexOf(':'));
+  System.out.println(KeyString);
+  Robot Arduino = new Robot();
   switch(KeyString){
     case "Cima" :
     for(int i = 0; i < 7;  i++){
