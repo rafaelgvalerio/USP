@@ -35,7 +35,7 @@ O funcionamento do controle é bem simples. No estado inicial, o Arduino manda 5
 
 ## Vídeo mostrando e explicando o funcionamento do controle
 
-Link:
+Link: https://youtu.be/n9RE2rzYi3k
 
 ## Alunos
 
