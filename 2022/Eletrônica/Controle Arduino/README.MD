@@ -31,7 +31,7 @@ O funcionamento do controle é bem simples. No estado inicial, o Arduino manda 5
 
 ![alt text][foto1]
 
-[foto1]: 
+[foto1]: https://i.imgur.com/bVEU1oO.jpeg
 
 ## Vídeo mostrando e explicando o funcionamento do controle
 
