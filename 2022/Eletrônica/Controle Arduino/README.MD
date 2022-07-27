@@ -19,7 +19,7 @@ O funcionamento do controle é bem simples. No estado inicial, o Arduino manda 5
 | 24x        | Jumper wire                 | emprestado  |
 | 8x         | Push button                 | R$0,70 cada |
 | 8x         | Resistor CR25 1K carvão LGE | R$0.07 cada |
-|            |         TOTAL               |             |
+|            |         TOTAL               | R$6,16      |
 
 ## Diagrama com as conexões
 
