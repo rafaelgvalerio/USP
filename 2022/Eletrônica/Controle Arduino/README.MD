@@ -1,12 +1,12 @@
-# Controle de Bananas - Arduino
+# Controle de Video Game - Arduino
 
 ## Instruções
 
-O projeto consiste na criação de um controle feito com bananas. Nós o usaremos para jogar games, mas ele pode ser facilmente adaptado para qualquer outro objeto/atividade, como, por exemplo, para um piano.
+O projeto consiste na criação de um controle de video game. Nós o usaremos para jogar games, mas ele pode ser facilmente adaptado para qualquer outro objeto/atividade, como, por exemplo, para um piano.
 
 ## Explicação do Projeto
 
-O funcionamento do controle é bem simples. No estado inicial, o Arduino manda 5V para Protoboard e os recebe de volta, no entanto, quando encostamos em alguma banana, acabamos por "roubar" parte dessa tensão e isso é sentido pelo Arduino, que manda um sinal para o computador em forma de uma string. Essa string é lida por um programa feito em Java, que está rodando em segundo plano no computador, e é transformada em um comando de teclado. Desse modo, conseguimos mandar inputs de teclado para o computador usando apenas bananas.
+O funcionamento do controle é bem simples. No estado inicial, o Arduino manda 5V para Protoboard e os recebe de volta, no entanto, quando apertamos algum dos push buttons, acabamos por "roubar" parte dessa tensão e isso é sentido pelo Arduino, que manda um sinal para o computador em forma de uma string. Essa string é lida por um programa feito em Java, que está rodando em segundo plano no computador, e é transformada em um comando de teclado. Desse modo, conseguimos mandar inputs de teclado para o computador usando apenas bananas.
 
 * OBS: Foi necessário o uso do programa em Java, porque o Arduino UNO não possui a capacidade de mandar inputs de teclado, diferentemente do Arduino Leonardo. Ou seja, caso tivéssemos conseguido um Arduino Leonardo, o script em Java seria desnecessário.
 
