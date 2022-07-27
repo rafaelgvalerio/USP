@@ -6,7 +6,7 @@ O projeto consiste na criação de um controle de video game. Nós o usaremos pa
 
 ## Explicação do Projeto
 
-O funcionamento do controle é bem simples. No estado inicial, o Arduino manda 5V para Protoboard e as entradas dele, por padrão, estão negativas. No entanto, quando apertamos algum dos push buttons, enviamos os 5V para as entradas do Arduino, que então manda um sinal para o computador em forma de uma string. Essa string é lida por um programa feito em Java, que está rodando em segundo plano no computador, e é transformada em um comando de teclado. Desse modo, conseguimos mandar inputs de teclado para o computador usando os push buttons.
+O funcionamento do controle é bem simples. No estado inicial, o Arduino manda 5V para Protoboard e as entradas dele, por padrão, estão negativas. No entanto, quando apertamos algum dos push buttons, enviamos os 5V de volta para as entradas do Arduino, que então manda um sinal para o computador em forma de uma string. Essa string é lida por um programa feito em Java, que está rodando em segundo plano no computador, e é transformada em um comando de teclado. Desse modo, conseguimos mandar inputs de teclado para o computador usando os push buttons.
 
 * OBS: Foi necessário o uso do programa em Java, porque o Arduino UNO não possui a capacidade de mandar inputs de teclado, diferentemente do Arduino Leonardo. Ou seja, caso tivéssemos conseguido um Arduino Leonardo, o script em Java seria desnecessário.
 
